@@ -33,7 +33,7 @@
 |------|------|
 | RedDevils.ova | [REDDEVILS CTF](https://archive.org/details/reddevils_20260508)
 
-**MD5 Checksum:** `676BE1EC7AC80905C1AAADF783C8D72B`
+**MD5 Checksum:** `B95221A96DFEA856144F11F11A29CB6B`
 
 To verify the checksum on Windows (PowerShell):
 ```powershell
