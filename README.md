@@ -33,6 +33,18 @@
 |------|------|
 | RedDevils.ova | [REDDEVILS CTF](https://archive.org/details/reddevils_20260508)
 
+**MD5 Checksum:** `A146B8B0A467CCA7931648B3DF5434CE`
+
+To verify the checksum on Windows (PowerShell):
+```powershell
+Get-FileHash RedDevils.ova -Algorithm MD5
+```
+
+On Linux/Mac:
+```bash
+md5sum RedDevils.ova
+```
+
 ---
 
 ## 🚩 Flags
