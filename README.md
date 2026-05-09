@@ -33,11 +33,11 @@
 |------|------|
 | RedDevils.ova | [REDDEVILS CTF](https://archive.org/details/reddevils_20260508)
 
-**MD5 Checksum:** `B95221A96DFEA856144F11F11A29CB6B`
+**MD5 Checksum:** `3A96BC8223B83811AC98A7E0A812F28D`
 
 To verify the checksum on Windows (PowerShell):
 ```powershell
-Get-FileHash RedDevils.ova -Algorithm MD5
+Get-FileHash reddevils.ova -Algorithm MD5
 ```
 
 On Linux/Mac:
